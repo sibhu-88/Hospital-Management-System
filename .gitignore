@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Prerequisites
 *.d
 
@@ -39,3 +40,20 @@
 
 # debug information files
 *.dwo
+=======
+# Build & generated
+build/
+*.o
+*.exe
+HospitalManagementSystem
+HospitalManagementSystem.exe
+
+# IDE / editor
+.vscode/
+.idea/
+*.suo
+*.user
+
+# macOS junk
+.DS_Store
+>>>>>>> ae53fb8 (Hospital Management System)
