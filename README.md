@@ -1,6 +1,4 @@
 <<<<<<< HEAD
-# Bank-Management-System
-=======
 # Hospital Management System
 
 Simple console-based hospital management system in C++.
